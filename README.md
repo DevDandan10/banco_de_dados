@@ -1,1 +1,1 @@
-<img src="https://github.com/DevDandan10/banco-de-dados/blob/main/BD.png"/>
+<img src="https://github.com/DevDandan10/banco_de_dados/blob/main/BD.png"/>
